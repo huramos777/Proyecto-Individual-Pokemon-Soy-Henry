@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgba(255,56,20,1);
+background: -moz-linear-gradient(-45deg, rgba(255,56,20,1) 0%, rgba(251,81,55,1) 44%, rgba(240,28,0,1) 51%, rgba(245,29,0,1) 54%, rgba(239,30,11,1) 100%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,56,20,1)), color-stop(44%, rgba(251,81,55,1)), color-stop(51%, rgba(240,28,0,1)), color-stop(54%, rgba(245,29,0,1)), color-stop(100%, rgba(239,30,11,1)));
+background: -webkit-linear-gradient(-45deg, rgba(255,56,20,1) 0%, rgba(251,81,55,1) 44%, rgba(240,28,0,1) 51%, rgba(245,29,0,1) 54%, rgba(239,30,11,1) 100%);
+background: -o-linear-gradient(-45deg, rgba(255,56,20,1) 0%, rgba(251,81,55,1) 44%, rgba(240,28,0,1) 51%, rgba(245,29,0,1) 54%, rgba(239,30,11,1) 100%);
+background: -ms-linear-gradient(-45deg, rgba(255,56,20,1) 0%, rgba(251,81,55,1) 44%, rgba(240,28,0,1) 51%, rgba(245,29,0,1) 54%, rgba(239,30,11,1) 100%);
+background: linear-gradient(135deg, rgba(255,56,20,1) 0%, rgba(251,81,55,1) 44%, rgba(240,28,0,1) 51%, rgba(245,29,0,1) 54%, rgba(239,30,11,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff3814', endColorstr='#ef1e0b', GradientType=1 ); */
+background: #F41919;
+background: -moz-linear-gradient(-45deg, #F41919 0%, #D8CED0 100%);
+background: -webkit-linear-gradient(-45deg, #F41919 0%, #D8CED0 100%);
+background: linear-gradient(135deg, #F41919 0%, #D8CED0 100%);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
